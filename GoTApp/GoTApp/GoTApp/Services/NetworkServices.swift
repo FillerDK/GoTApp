@@ -1,10 +1,3 @@
-//
-//  NetworkServices.swift
-//  GoTApp
-//
-//  Created by dmu mac 35 on 29/10/2025.
-//
-
 import Foundation
 
 class NetworkServices {
