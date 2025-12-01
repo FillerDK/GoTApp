@@ -1,10 +1,3 @@
-//
-//  GoTModel.swift
-//  GoTApp
-//
-//  Created by dmu mac 32 on 18/09/2025.
-//
-
 import Foundation
 
 struct GoTCharacter: Codable, Identifiable, Hashable {
