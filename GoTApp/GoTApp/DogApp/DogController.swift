@@ -1,10 +1,3 @@
-//
-//  DogController.swift
-//  GoTApp
-//
-//  Created by dmu mac 32 on 23/09/2025.
-//
-
 import Foundation
 import SwiftUI
 
